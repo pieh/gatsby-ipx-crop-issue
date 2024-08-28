@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-ipx-crop-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "start": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "~5.11.0",
+    "gatsby-adapter-netlify": "latest",
+    "gatsby-plugin-image": "latest",
+    "gatsby-plugin-netlify": "^5.1.1",
+    "gatsby-plugin-sharp": "latest",
+    "gatsby-transformer-sharp": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@1.22.17"
+}
